@@ -1,2 +1,5 @@
 *.nc
 *.ascii
+*.cdf
+
+*tflex*/
